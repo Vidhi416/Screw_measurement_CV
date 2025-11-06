@@ -139,8 +139,9 @@ measurements.csv    # inspection summary report
 
 ## 👨‍💻 Developers
 
-**Name / Team Name**
-**Department / Institution**
+**Team: ScrewVision**
+**Members:** Mugdha Deshpande, Ishanvi Godbole, Vidhi Agrawal
+**School of Computer Engineering / Manipal Institute of Technology**
 **Year:** 2025
 
 ---
